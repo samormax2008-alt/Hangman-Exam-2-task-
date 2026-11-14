@@ -1,0 +1,21 @@
+--- Game results ---
+Search word: VEHICLE
+Time: 34.1963 sec
+Failed attempts: 5
+Entered letters: A C E G H I L M P U V 
+---------------------
+
+--- Game results ---
+Search word: VIG
+Time: 43.1368 sec
+Failed attempts: 6
+Entered letters: A C M N O T 
+---------------------
+
+--- Game results ---
+Search word: LGORITHM
+Time: 47.5448 sec
+Failed attempts: 3
+Entered letters: A G H I L M O R S T U 
+---------------------
+
